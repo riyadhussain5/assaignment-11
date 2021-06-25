@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.text-brand{
+  color: rgb(53, 104, 138);
+}
+.btn-brand{
+  background-image: linear-gradient(75deg, rgba(14, 84, 212, 0.178), rgba(179, 24, 83, 0.192));
+
+}
 
 .App-logo {
   height: 40vmin;
